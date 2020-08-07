@@ -3,6 +3,16 @@ Simple Tracker is a simple, easy to use tracker for certain Randomizers
 
 How to Use: Once open, you can select your game by Left-Clicking its Logo. You can reset the program at any time by pressing then HOME key.
 
+# Version 5.0.0
+Summer 2020 Massive Update
+
+Support for The Legend of Zelda: Majora's Mask Randomizer added
+Added Help Window (Accessed from the startup screen or anytime using F1)
+Removed Compact Tracker Logos
+New Visual Style
+New control to access Minimal Trackers
+Can now take screenshots using F2 (Overwrites previous screenshot)
+
 # Version 4.0.0
 Library Update
 
