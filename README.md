@@ -1,7 +1,14 @@
 # SimpleTracker
 Simple Tracker is a simple, easy to use tracker for certain Randomizers
 
-How to Use: Once open, you can select your game by Left-Clicking its Logo. You can reset the program at any time by pressing then HOME key.
+How to Use: Once open, you can select your game by Left-Clicking its Logo. You can reset the program at any time by pressing then HOME key. Reset the current Tracker by pressing the END key.
+
+# Version 6.0.0
+Expansion Update
+
+Added Metroid Prime Randomizer to Supported Games
+Can now reset current Tracker by pressing the "End" Key
+Updated Help Text
 
 # Version 5.0.0
 Summer 2020 Massive Update
